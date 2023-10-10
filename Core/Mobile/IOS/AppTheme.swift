@@ -3,7 +3,6 @@ import Foundation
 import SwiftUI
 
 class AppTheme {
-    
     public static let buttonBaseColor: String = "ButtonBaseColor"
     public static let buttonBackgroundColor: String = "ButtonBackgroundColor"
     
@@ -24,7 +23,7 @@ class AppTheme {
     public static let iconTextSize: Int = 11
     
     public static let font: String = "Lexend"
-    
+
     public static let titleWeight: Int = 600
     public static let defaultTextWeight: Int = 500
     public static let iconTextWeight: Int = 400
